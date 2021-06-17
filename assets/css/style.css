@@ -20,6 +20,7 @@ body {
     font-size: 48px;
 }
 
+/* Simplified .seo selector */
 .seo {
     color: #d9dcd6;
 }
@@ -69,12 +70,14 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* Updated css selector from content to main to match HTML edit */
+.main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Swapped main section with aside section to mirror browser */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,6 +132,7 @@ p {
     font-size: 36px;
 }
 
+/* Swapped aside section with main section to mirror browser page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
