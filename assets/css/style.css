@@ -70,7 +70,7 @@ p {
     margin-left: 25px;
 }
 
-/* Updated css selector from content to main to match HTML edit */
+/* Updated css class from content to main to match HTML edit */
 .main {
     width: 75%;
     display: inline-block;
@@ -78,7 +78,7 @@ p {
 }
 
 /* Swapped main section with aside section to mirror browser */
-/* Consolidated redundant selectors*/
+/* Consolidated redundant classes*/
 section.summary {
     margin-bottom: 20px;
     padding: 50px;
@@ -98,7 +98,7 @@ section.summary h2 {
 }
 
 /* Swapped aside section with main section to mirror browser page */
-/* Consolidated redundant selectors*/
+/* Consolidated redundant classes*/
 .aside {
     margin-right: 20px;
     padding: 20px;
